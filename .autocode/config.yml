@@ -1,0 +1,7 @@
+name: acunniffe/javaparser
+author:
+  name: Aidan Cunniffe
+  email: adcunnif@syr.edu
+  url: 'http://QueueSoftware.com'
+copyright: 2015 Aidan Cunniffe
+description: ' Java 1.8 Parser and Abstract Syntax Tree for Java –'
